@@ -1,0 +1,4 @@
+function CheckDate(){
+
+    alert(Date())
+}
